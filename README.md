@@ -39,7 +39,9 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 </div>
 
