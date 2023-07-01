@@ -3,13 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Joohyun's%20Github!&fontSize=30)
 
 <div align='center'>
-<img width=48% height=auto align='center' src="https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&theme=nord&hide_border=true&count_private=true"/>
+<img width=54% height=auto align='center' src="https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&theme=nord&hide_border=true&count_private=true"/>
 
-<img width=36% align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjoohyun2030&layout=compact"/>
+<img width=42% align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjoohyun2030&layout=compact"/>
 
 </div>
 
-## 🔨 Familiar Tech Skills 🔨
+<br>
+
+## ⚒ Familiar Tech Skills ⚒
 <div align='center'>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -26,7 +28,9 @@
 </p>
 </div>
 
-## 🔨 Studying Tech Skills 🔨
+<br>
+
+## 💻 Studying Tech Skills 💻
 <div align='center'>
 <p align="center">
      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
