@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20to%20Joohyun's%20Github!&fontSize=30)
 
 <div align='center'>
-<img width=54% height=auto align='center' src="https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&theme=nord&hide_border=true&count_private=true"/>
+<img width=54% height=auto align='center' src="https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
 <img width=42% align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjoohyun2030&layout=compact"/>
 
