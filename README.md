@@ -1,6 +1,6 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20to%20Joohyun's%20Github!&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to%20Joohyun's%20Github!&fontSize=30)
 
 <div align='center'>
 <img width=54% height=auto align='center' src="https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&count_private=true"/>
