@@ -9,10 +9,11 @@
 
 <br>
 
+<!--
 <div align='center'>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=buttercake)](https://solved.ac/백준아이디"/>
 </div>
-
+-->
 <br>
 
 ## ⚒ Familiar Tech Skills ⚒
