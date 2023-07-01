@@ -1,7 +1,29 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Joohyun's%20Github!&fontSize=30)
+
+[![Joohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/limjoohyun2030/github-readme-stats)
+
+
+## Hi there 👋
+
+My name is Lim Joohyun. I graduated from Dankook university with bachelor degree in Computer Science.
+
+I'm looking for Front-End job position now
+
+I'm have studied HTML, CSS, JS and React
+
+
+### Language
+HTML
+CSS
+JavaScript
+React
+
+###Learning
+Node.js TypeScript
+
 
 <!--
-**limjoohyun2030/limjoohyun2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sweetpotatopizza/Sweetpotatopizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
