@@ -51,6 +51,9 @@
     <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-000000.svg?&style=flat-square&logo=Rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Solidity-363636.svg?&style=flat-square&logo=Solidity&logoColor=white"/>
 </p>
 </div>
 
