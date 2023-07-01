@@ -2,10 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Joohyun's%20Github!&fontSize=30)
 
-[![Joohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/limjoohyun2030/github-readme-stats)
+<div align='center'>
+<img width=48% height=auto align='center' src="https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&theme=nord&hide_border=true&count_private=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjoohyun2030&layout=compact)](https://github.com/limjoohyun2030/github-readme-stats)
+<img width=36% align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjoohyun2030&layout=compact"/>
 
+</div>
 
 ## 🔨 Familiar Tech Skills 🔨
 <div align='center'>
