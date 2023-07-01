@@ -4,9 +4,13 @@
 
 <div align='center'>
 <img width=54% height=auto align='center' src="https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&count_private=true"/>
-
 <img width=41% align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=limjoohyun2030&layout=compact&theme=tokyonight"/>
+</div>
 
+<br>
+
+<div align='center'>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=buttercake)](https://solved.ac/백준아이디"/>
 </div>
 
 <br>
