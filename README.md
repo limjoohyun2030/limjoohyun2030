@@ -2,7 +2,7 @@
 
 [![Joohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjoohyun2030&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/limjoohyun2030/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmrdltl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjoohyun2030&layout=compact)](https://github.com/limjoohyun2030/github-readme-stats)
 
 
 ## 🔨 Tech Skills 🔨
