@@ -38,11 +38,11 @@
 ## 💻 Studying Tech Skills 💻
 <div align='center'>
 <p align="center">
-    <img src="https://img.shields.io/badge/Rust-000000.svg?&style=flat-square&logo=Rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=Go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Solidity-363636.svg?&style=flat-square&logo=Solidity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
         <br>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
@@ -50,13 +50,13 @@
     <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white"/>
         <br>
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 </div>
 
 </div>
 
 <!-- tech skills icons
+<img src="https://img.shields.io/badge/Rust-000000.svg?&style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
