@@ -26,25 +26,20 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redux-764abc?style=flat-squaret&logo=redux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
-    <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">
 </p>
 </div>
 
 <br>
 
-## 💻 Studying Tech Skills 💻
+## 💻 Interested Tech Skills 💻
 <div align='center'>
 <p align="center">
-    <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=Go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Solidity-363636.svg?&style=flat-square&logo=Solidity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
-        <br>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
+    <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">
+        <br>        
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -61,6 +56,11 @@
 </div>
 
 <!-- tech skills icons
+    <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Solidity-363636.svg?&style=flat-square&logo=Solidity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    
 <img src="https://img.shields.io/badge/Rust-000000.svg?&style=flat-square&logo=Rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
